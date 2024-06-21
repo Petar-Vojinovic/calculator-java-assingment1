@@ -6,7 +6,6 @@ Start.java - 6. linija - Alat predlaze da se "Expression" preimenuje kako bi pra
 
 Start.java - 12. linija - Alat predlaze da scanner koji se koristi unutar while petlje (scanIn = new Scanner(System.in);) nije efikasan jer se u svakoj iteraciji kreira novi objekat skenera bez pravilnog zatvaranja prethodnog. 
 
-
 Calculator.java - linija 24 - rec "Run" bi mogla da se preimenuje u RUN ili run kako bi pratila prethodno navedeno pravilo.
 
 Calculator.java - linija 74 - ista sugestija za rec "Calculate".
